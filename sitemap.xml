@@ -9,7 +9,13 @@
 
   <url>
     <loc>https://www.koenigtravel.ru/</loc>
-    <lastmod>2021-04-29T03:03:40+00:00</lastmod>
+    <lastmod>2021-05-07T08:25:55+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+  <url>
+    <loc>https://www.koenigtravel.ru/experiences</loc>
+    <lastmod>2021-05-07T08:25:55+00:00</lastmod>
+    <priority>0.80</priority>
   </url>
 
 
